@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Material Design for GroupMe",
+	"name": "Material Design for Facebook Messenger",
 	"version": "1.0",
-	"description": "Change the GroupMe web app interface to a Material Design visual style.",
+	"description": "Change the Facebook Messenger (messenger.com) web app interface to a Material Design visual style.",
 	
 	"permissions": [
 		"*://*.messenger.com/*"
